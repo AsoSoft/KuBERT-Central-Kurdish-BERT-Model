@@ -1,14 +1,18 @@
 # KuBERT: Central Kurdish BERT Model
 ## Load Model
 # Use a pipeline as a high-level helper
+~~~
 from transformers import pipeline
 
 pipe = pipeline("feature-extraction", model="asosoft/KuBERT-Central-Kurdish-BERT-Model")
+~~~
 # Load model directly
+~~~
 from transformers import AutoTokenizer, AutoModel
 
 tokenizer = AutoTokenizer.from_pretrained("asosoft/KuBERT-Central-Kurdish-BERT-Model")
 model = AutoModel.from_pretrained("asosoft/KuBERT-Central-Kurdish-BERT-Model")
+~~~
 ## Introduction
 KuBERT-Central-Kurdish-BERT-Model harnesses the BERT framework to enhance computational linguistics for the Central Kurdish language. This initiative is a response to the scarcity of resources and computational models for Kurdish, which is a language with substantial linguistic diversity.
 
