@@ -47,7 +47,7 @@ The corpus data tables and the detailed methodology can be found in the full res
 
 ### Corpus Data Tables Summary
 
-**Table 2: AsoSoft Kurdish Text Corpus**
+**Table 1: AsoSoft Kurdish Text Corpus**
 | Source                    | Number of Tokens |
 |---------------------------|------------------|
 | Crawled From Websites     | 95M              |
@@ -55,7 +55,7 @@ The corpus data tables and the detailed methodology can be found in the full res
 | Magazines                 | 48M              |
 | **Sum**                   | **188M**         |
 
-**Table 3: Muhammad Azizi and AramRafeq Text Corpus**
+**Table 2: Muhammad Azizi and AramRafeq Text Corpus**
 | Source               | Number of Tokens |
 |----------------------|------------------|
 | Wikipedia            | 13.5M            |
@@ -66,12 +66,12 @@ The corpus data tables and the detailed methodology can be found in the full res
 | Chawg Website        | 8M               |
 | **Sum**              | **60M**          |
 
-**Table 4: The Kurdish Text Corpus Used to Train BERT**
+**Table 3: The Kurdish Text Corpus Used to Train BERT**
 | Corpus Name                        | Number of Tokens |
 |------------------------------------|------------------|
 | Oscar 2019 corpus                  | 48.5M            |
 | AsoSoft corpus                     | 188M             |
 | Muhammad Azizi and AramRafeq corpus| 60M              |
 | **Sum**                            | **296.5M**       |
-"""
+
 
