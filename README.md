@@ -75,5 +75,3 @@ The corpus data tables and the detailed methodology can be found in the full res
 | **Sum**                            | **296.5M**       |
 """
 
-# Save the content to a README.md file.
-readme_file_path = '/mnt
