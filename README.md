@@ -1,6 +1,3 @@
-# Let's create a README.md content for the user to download.
-
-readme_content = """
 # KuBERT-Central-Kurdish-BERT-Model
 
 ## Introduction
