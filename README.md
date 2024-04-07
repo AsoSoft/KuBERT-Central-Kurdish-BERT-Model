@@ -74,4 +74,20 @@ The corpus data tables and the detailed methodology can be found in the full res
 | Muhammad Azizi and AramRafeq corpus| 60M              |
 | **Sum**                            | **296.5M**       |
 
+##  Cite
+If you are using our text corpus cite us.
 
+Hadi Veisi, Kozhin muhealddin Awlla, Abdulhady Abas Abdullah; KuBERT: Central Kurdish BERT Model and Its Application for   Sentiment Analysis , fqy074, https://doi.org/10.1093/llc/fqy074
+
+~~~
+@article{veisi2020toward,
+  title={KuBERT: Central Kurdish BERT Model and Its Application for   Sentiment Analysis },
+  author={Veisi, Hadi and muhealddin, Kozhin and Abas, Abdulhady},
+  journal={},
+  volume={35},
+  number={1},
+  pages={},
+  year={2024},
+  publisher={}
+}
+~~~
